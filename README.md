@@ -1,6 +1,6 @@
 # AVL-Tree---Data-Structures-
 
-This calculator will help you solve simple math equations, such as addition, subtraction, multiplication, and division. 
+AVL tree concept implemented in C language.
 
 Here's the tutorial:
 1. Open your code editor.
